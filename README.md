@@ -12,7 +12,7 @@ pengembangan source code dangan rapi dan simple di pahami oleh progammer pengemb
 - kualitas code dikarap dengan cepat kemungkinan agak sedikit kurang rapi dikit
 
 ## Instalasi
-untuk unit test/Observer Jalankan perintah php artisan test
+untuk unit test/Observer Jalankan perintah ```php artisan test```
 
 ### Setup Aplikasi
 Jalankan perintah 
